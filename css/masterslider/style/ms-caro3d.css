@@ -1,0 +1,16 @@
+.ms-caro3d-template {
+    margin: 0 auto;
+}
+
+.ms-caro3d-template .master-slider .ms-container{
+	padding: 0px 0 0px 0;
+}
+
+/* reflect */
+.ms-caro3d-template .ms-slide{
+	/*-webkit-box-reflect: below 1px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(90%, transparent), to(rgba(255,255,255,0.5)));*/
+}
+
+.ms-caro3d-template .ms-slide-bgcont{
+	border-radius: 8px;
+}
